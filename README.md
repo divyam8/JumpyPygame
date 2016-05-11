@@ -1,5 +1,5 @@
 Jumpy Pygame:
-A simple GUI based jumpy game that implements Pygame concepts in Python. 
+A simple GUI based jumpy game implemented in Pygame(Python). 
 
 Running the Game:
 This game can be played by simply running jumpy.py. The jumpy.py needs to be set in order to execute the file by installing Pygame Library. 
