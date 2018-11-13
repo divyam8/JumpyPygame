@@ -6,8 +6,8 @@ This game can be played by simply running jumpy.py. The jumpy.py needs to be set
 
 ![alt tag](https://raw.githubusercontent.com/divyam8/JumpyPygame/master/Screenshots/startscreen.png)
            
-![alt text](https://gitlab.com/niki-infra/docs/blob/master/static/images/cc-by-nc-sa.png)
-           
+![alt text](https://gitlab.com/niki-infra/docs/blob/master/static/images/cc-by-nc-sa.png  "Logo Title Text 1")
+            
 ![alt tag](https://raw.githubusercontent.com/divyam8/JumpyPygame/master/Screenshots/gameover.png)
 
 #Contributors:
